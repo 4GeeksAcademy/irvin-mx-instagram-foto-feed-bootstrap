@@ -3,25 +3,22 @@
 }
 
 .my-content-container-rows>div{
-    border: 1px solid whitesmoke;
+    border: 5px solid whitesmoke;
     height: 50vh;
     padding: 0;
 }
 
-/* .my-image-fill{
-    object-fit: cover;
-	object-position: top;
-} */
-
 .my-card-styles{
-    border: 1px solid pink;
+    border: 1px solid rgb(255, 243, 192);
 }
 
-/* .col{
-    background-color: greenyellow;
-} */
+.my-navigation-links{
+    color: gray;
+    
+}
 
-#myTabContent{
-    background-color: salmon;
+.my-navigation-links:hover{
+    color: blue;
+    
 }
 
