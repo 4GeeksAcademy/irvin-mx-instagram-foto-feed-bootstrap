@@ -1,10 +1,11 @@
 .my-gallery-posts-options-div{
-    height: 10vh;
+    height: 20vh;
 }
 
 .my-content-container-rows>div{
     border: 1px solid whitesmoke;
-    height: 20vh;
+    height: 50vh;
+    padding: 0;
 }
 
 /* .my-image-fill{
@@ -19,3 +20,8 @@
 /* .col{
     background-color: greenyellow;
 } */
+
+#myTabContent{
+    background-color: salmon;
+}
+
