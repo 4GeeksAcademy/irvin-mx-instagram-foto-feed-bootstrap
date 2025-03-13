@@ -4,5 +4,18 @@
 
 .my-content-container-rows>div{
     border: 1px solid whitesmoke;
-    height: 40vh;
+    height: 20vh;
 }
+
+/* .my-image-fill{
+    object-fit: cover;
+	object-position: top;
+} */
+
+.my-card-styles{
+    border: 1px solid pink;
+}
+
+/* .col{
+    background-color: greenyellow;
+} */
